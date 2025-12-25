@@ -82,9 +82,7 @@ README  → Project documentation
 ---
 
 ### 🖼 Dashboard Preview
-```
 ![Dashboard Screenshot](./images/dashboard_overview.png)
-```
 
 ---
 
